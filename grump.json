@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "chromeit",
+  "commands": {
+    "chromeit": {
+      "scriptType": "bash",
+      "scriptPath": "chromeit.sh",
+      "vars": {}
+    }
+  }
+}
