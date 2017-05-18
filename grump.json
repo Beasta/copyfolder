@@ -1,1 +1,10 @@
-{"defaultCommand":"dnsflush","commands":{"dnsflush":{"scriptType":"bash","scriptPath":"dnsflush.sh","vars":{}}},"stats":{"executions":2}}
+{
+  "defaultCommand": "copyfolder",
+  "commands": {
+    "copyfolder": {
+      "scriptType": "bash",
+      "scriptPath": "copyfolder.sh",
+      "vars": {}
+    }
+  }
+}

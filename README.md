@@ -1,5 +1,5 @@
-# DnsFlush
-This is a quick and easy way to dump the local DNS for mac. It has only been tested on OS Sierra
+# copyfolder
+This is a user friendly way to copy folders on the command line
 
 If grump has not yet been installed, you can do so using:
 ```bash
@@ -8,7 +8,7 @@ npm i -g grump
 
 Example usage:
 ```
-grump dnsflush
+grump copyfolder originalFolderName copiedFolderName
 ```
 
 see grumpjs.com to find other useful grumps!
