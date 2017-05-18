@@ -1,10 +1,1 @@
-{
-  "defaultCommand": "dnsflush",
-  "commands": {
-    "chromeit": {
-      "scriptType": "bash",
-      "scriptPath": "dnsflush.sh",
-      "vars": {}
-    }
-  }
-}
+{"defaultCommand":"dnsflush","commands":{"dnsflush":{"scriptType":"bash","scriptPath":"dnsflush.sh","vars":{}}},"stats":{"executions":2}}
